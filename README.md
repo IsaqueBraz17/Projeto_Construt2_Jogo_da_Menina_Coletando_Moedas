@@ -4,12 +4,6 @@ Este é um projeto desenvolvido no **Construct 2**, com o objetivo de aprender e
 O jogo consiste em uma menina que coleta moedas em um cenário interativo.<br>
 
 
-## 📸 Demonstração
-
-![Screenshot do jogo](./Imagens/jogo.png)<br>
-
----
-
 ## 🕹️ Objetivo do Projeto
 - Aprender a inserir **sprites** no Construct 2.<br>
 - Criar **movimentos básicos** para personagens e objetos.<br>
